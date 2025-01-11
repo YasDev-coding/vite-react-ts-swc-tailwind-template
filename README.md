@@ -9,4 +9,3 @@
 
 Initialize shadcn/UI
 `npx shadcn@latest init`
-G
